@@ -48,7 +48,6 @@ A collection of Python scripts implementing popular algorithms and data structur
 - **CI/CD** with GitHub Actions
 - **Git-Flow** for effective collaboration
 - **Kafka** for real-time data streaming
-- 
 ---
 
 ### 📈 GitHub Stats
