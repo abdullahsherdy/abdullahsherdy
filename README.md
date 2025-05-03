@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 ### 🌟 Software Engineer | Backend Developer
 
-I’m a Software Engineer specializing in backend development with a strong foundation in API development, database management, and scalable systems. I enjoy building efficient, reliable backend systems and continually learning to keep up with evolving technologies.
+I’m a Software Engineer specializing in backend development. My strong foundation in API development, database management, and scalable systems allows me to build efficient, reliable backend systems while continually learning to keep up with evolving technologies.
 
 ---
 
 ### 🚀 Skills & Technologies
 
-- **Languages**: C#, Python, CPP, Java, JS, PhP.
-- **Frameworks**: ASP.NET Core, Entity Framework Core.
-- **Databases**: SQL Server, Oracle.
-- **Other Tools**: Git, GitHub Actions, Swagger, Docker.
+- **Languages**: F#,C#, Python, CPP, Java, JS, PHP, JavaScript.
+- **Frameworks**: ASP.NET Core API, Entity Framework Core, ASP.NET Core MVC, node.js.
+- **Databases**: SQL(MSSQL, MySql,..etc), No-SQL(MonogoDB).
+- **Other Tools**: Git, GitHub Actions, Swagger, Docker, Postman.
 
 ---
 
@@ -44,10 +44,10 @@ A collection of Python scripts implementing popular algorithms and data structur
 ---
 
 ### 🌱 What I'm Learning
-
 - **CI/CD** with GitHub Actions
 - **Git-Flow** for effective collaboration
 - **Kafka** for real-time data streaming
+- **Machine Learning**: Add collaboration between the Backend and AI.
 ---
 
 ### 📈 GitHub Stats
