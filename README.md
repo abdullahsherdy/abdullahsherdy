@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Abdullah Sherdy 👋</h1>
 
 <p align="center">
@@ -23,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,fsharp,python,cpp,java,javascript,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,git,docker,linux,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,cs,python,cpp,java,javascript,ts,react,nextjs,nodejs,express,,mongodb,mysql,postgresql,postman,git,docker,linux,azure,vscode,vim,tensorflow,visualstudio" />
 </p>
 
 ---
@@ -69,7 +68,7 @@
   💬 Let's connect or collaborate!  
 </p>
 
-- 📧 [mail](mailto:abdullah.sherdy.work@gmail.com)  
+- 📧 **Email**: [abdullah.sherdy.work@gmail.com](mailto:abdullah.sherdy.work@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdullahsherdy)  
 - 💬 [Facebook](https://www.facebook.com/profile.php?id=100038535590675)
 
