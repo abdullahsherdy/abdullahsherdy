@@ -69,7 +69,7 @@
   💬 Let's connect or collaborate!  
 </p>
 
-- 📧 **Email**: [abdullah.sherdy.work@gmail.com](mailto:abdullah.sherdy.work@gmail.com)  
+- 📧 [mail](mailto:abdullah.sherdy.work@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdullahsherdy)  
 - 💬 [Facebook](https://www.facebook.com/profile.php?id=100038535590675)
 
