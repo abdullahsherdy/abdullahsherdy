@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://api.github.com/users/abdullahsherdy/repos?per_page=100&sort=updated\")",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
