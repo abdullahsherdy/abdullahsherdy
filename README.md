@@ -88,12 +88,7 @@ I believe the best way to master engineering is to teach it.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahsherdy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsherdy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsherdy&theme=tokyonight&hide_border=true&background=1a1b26" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsherdy&theme=tokyonight&hide_border=true&background=1a1b26"/>
 </p>
 
 <p align="center">
