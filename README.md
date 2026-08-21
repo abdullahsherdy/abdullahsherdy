@@ -88,7 +88,7 @@ I believe the best way to master engineering is to teach it.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsherdy&theme=tokyonight&hide_border=true&background=1a1b26"/>
+  <img src="https://streak-stats.demolab.com?user=abdullahsherdy&theme=tokyonight&hide_border=true&background=1a1b26"/>
 </p>
 
 <p align="center">
