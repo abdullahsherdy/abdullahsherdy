@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 
-- 💻 **Software Engineer** — backend-focused with **.NET** and **NestJS**, plus hands-on frontend experience with **React** and **Next.js**.
-- 🧭 I invest in **engineering fundamentals** — OS, databases, system design, and algorithms — not just one framework's comfort zone.
-- 🛠️ **~2 years of freelance experience** designing and delivering backend systems and RESTful APIs for real clients.
+- 💻 **Software Engineer** — Backend-focused with **.NET** and **NestJS**, plus hands-on Frontend experience with **React** and **Next.js**.
+- 🧭 I invest in **engineering fundamentals** — Data Structure, Problem Solving, algorithms, OS, databases, system design, and Networking — not just one framework's comfort zone.
+- 🛠️ **~2 years of freelance experience** designing and delivering backend systems and RESTful APIs for real clients and also keep learning.
 - 👨‍🏫 **Specialized Coding Instructor** — I teach software engineering and help developers build strong foundations.
 
 ---
