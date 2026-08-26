@@ -88,11 +88,11 @@ I believe the best way to master engineering is to teach it.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsherdy&theme=tokyonight&hide_border=true&background=1a1b26" />
+  <img src="https://streak-stats.demolab.com?user=abdullahsherdy&theme=tokyonight&hide_border=true&background=1a1b26&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahsherdy&theme=tokyo-night&hide_border=true&bg_color=1a1b26" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahsherdy&theme=tokyo-night&hide_border=true&bg_color=1a1b26&radius=8" width="95%" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ I believe the best way to master engineering is to teach it.
   <a href="mailto:abdullah.sherdy.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-abdullah.sherdy.work@gmail.com-1a1b26?style=flat-square&logo=gmail&logoColor=7aa2f7" /></a><br/>
   <a href="https://www.linkedin.com/in/abdullah-sherdy"><img src="https://img.shields.io/badge/LinkedIn-abdullahsherdy-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7" /></a><br/>
   <a href="https://www.facebook.com/profile.php?id=100038535590675"><img src="https://img.shields.io/badge/Facebook-Abdullah_Sherdy-1a1b26?style=flat-square&logo=facebook&logoColor=7aa2f7" /></a>
-  <a href="https://abdullahsherdy.tech><img src="https://abdullahsherdy.tech/favicon.svg" /> </a>
+  <a href="https://abdullahsherdy.tech"><img src="https://abdullahsherdy.tech/favicon.svg" /></a>
 </p>
 
 ---
