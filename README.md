@@ -84,11 +84,15 @@ I believe the best way to master engineering is to teach it.
 - 🤖 AI integration into backend systems
 
 ---
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullahsherdy&theme=tokyonight&hide_border=true&background=1a1b26&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=abdullahsherdy&theme=tokyonight&hide_border=true&background=1a1b26&cache_seconds=0" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahsherdy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsherdy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="45%" />
 </p>
 
 <p align="center">
