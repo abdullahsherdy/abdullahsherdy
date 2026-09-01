@@ -1,120 +1,220 @@
-<h1 align="center">Hi, I'm Abdullah Sherdy</h1>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  HEADER BANNER                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer+(.NET+%7C+NestJS);Specialized+Coding+Instructor;Fundamentals+over+Frameworks" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=Abdullah%20Sherdy&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Coding%20Instructor&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Abdullah Sherdy" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullahsherdy"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" /></a>
-  <a href="mailto:abdullah.sherdy.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" /></a>
-  <a href="https://github.com/abdullahsherdy?tab=followers"><img src="https://img.shields.io/github/followers/abdullahsherdy?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=1a1b26&color=414868&label=Followers" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer+(.NET+%7C+NestJS);Fundamentals+over+Frameworks;Building+Scalable+Systems;Teaching+the+Next+Generation" alt="Typing SVG" />
 </p>
 
----
+<!-- ── Social + profile views ─────────────────────────────────────────────── -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullahsherdy"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+  <a href="mailto:abdullah.sherdy.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email" /></a>
+  <a href="https://github.com/abdullahsherdy?tab=followers"><img src="https://img.shields.io/github/followers/abdullahsherdy?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=1a1b26&color=414868&label=Followers" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=abdullahsherdy&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&label=Profile+Views" alt="Profile Views" />
+</p>
 
-### 🚀 About Me
+<br/>
 
-- 💻 **Software Engineer** — Backend-focused with **.NET** and **NestJS**, plus hands-on Frontend experience with **React** and **Next.js**.
-- 🧭 I invest in **engineering fundamentals** — Data Structure, Problem Solving, algorithms, OS, databases, system design, and Networking — not just one framework's comfort zone.
-- 🛠️ **~2 years of freelance experience** designing and delivering backend systems and RESTful APIs for real clients and also keep learning.
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  ABOUT                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 👨‍💻 About Me
+
+```csharp
+public class AbdullahSherdy : SoftwareEngineer
+{
+    public string Role        => "Backend Developer";
+    public string[] Stack     => new[] { ".NET", "NestJS", "React", "Next.js" };
+    public string[] Focus     => new[] { "System Design", "Distributed Systems", "Clean Architecture" };
+    public string Philosophy  => "Master the fundamentals — frameworks are just tools.";
+    public int YearsFreelance => 2;
+}
+```
+
+- 💻 **Backend-focused Software Engineer** working with **.NET** and **NestJS**, with hands-on frontend experience in **React** and **Next.js**.
+- 🧭 I invest in **engineering fundamentals** — data structures, algorithms, OS, databases, system design, and networking — not just one framework's comfort zone.
+- 🛠️ **~2 years of freelance experience** designing and delivering backend systems and RESTful APIs for real clients.
 - 👨‍🏫 **Specialized Coding Instructor** — I teach software engineering and help developers build strong foundations.
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  TECH STACK                                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h4 align="center">Backend</h4>
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,nestjs,nodejs,ts,express" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data &amp; DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,docker,azure" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,visualstudio" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  GITHUB ANALYTICS  (self-generated + reliable services only)            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<!-- Metrics card is generated by .github/workflows/metrics.yml and committed to the repo.
+     COMMENTED OUT until you add the METRICS_TOKEN secret and the workflow runs once.
+     After the first successful "📊 Generate Metrics" run, delete these two comment
+     lines (and the closing --> below) to show the card. -->
+<!--
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nestjs,nodejs,ts" />
+  <img src="https://raw.githubusercontent.com/abdullahsherdy/abdullahsherdy/main/github-metrics.svg" width="95%" alt="GitHub Metrics" />
+</p>
+-->
+
+<!-- Streak stats is a live, reliable service (demolab) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdullahsherdy&theme=tokyonight&hide_border=true&background=1a1b26&stroke=414868&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" width="60%" alt="GitHub Streak" />
 </p>
 
-<h4 align="center">Frontend</h4>
+<!-- 3D contribution calendar generated by .github/workflows/3d-contrib.yml -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css" />
+  <img src="https://raw.githubusercontent.com/abdullahsherdy/abdullahsherdy/main/profile-3d-contrib/profile-night-view.svg" width="95%" alt="3D Contribution Calendar" />
 </p>
 
-<h4 align="center">Databases, DevOps & Tools</h4>
+<!-- Contribution snake generated by .github/workflows/snake.yml (pushed to the output branch) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,azure,linux,git,postman" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahsherdy/abdullahsherdy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahsherdy/abdullahsherdy/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/abdullahsherdy/abdullahsherdy/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />
+  </picture>
 </p>
 
----
+<br/>
 
-### 👨‍🏫 Teaching & Mentorship
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  FEATURED PROJECTS                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-I believe the best way to master engineering is to teach it.
-
-- 📚 Teaching **software engineering fundamentals** — programming, OOP, data structures & algorithms, and databases.
-- 🧑‍💻 Mentoring aspiring developers on building **strong foundations** instead of chasing frameworks.
-- ✍️ Creating technical content that turns complex concepts into clear, practical lessons.
-
----
-
-### 💼 Featured Projects
+## 💼 Featured Projects
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">📚 <a href="https://github.com/abdullahsherdy/The-Book-Haven">The Book Haven</a></h4>
-      <p align="center">Library Management System built with <b>ASP.NET Core MVC</b> & <b>EF Core</b> — borrowing history, overdue penalties, member & admin management.</p>
+      <p align="center">Library Management System built with <b>ASP.NET Core MVC</b> &amp; <b>EF Core</b> — borrowing history, overdue penalties, member &amp; admin management.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ASP.NET_Core-1a1b26?style=flat-square&logo=dotnet&logoColor=7aa2f7" />
+        <img src="https://img.shields.io/badge/EF_Core-1a1b26?style=flat-square&logo=dotnet&logoColor=bb9af7" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">🧏 <a href="https://github.com/abdullahsherdy/ESL-Egyptian-Sign-Language-Recognition">ESL Sign Language Recognition</a></h4>
       <p align="center">Real-time <b>Egyptian Sign Language</b> translator — combines hand gesture recognition and facial emotion detection to convert signs into text via webcam.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7aa2f7" />
+        <img src="https://img.shields.io/badge/OpenCV-1a1b26?style=flat-square&logo=opencv&logoColor=bb9af7" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🧠 <a href="https://github.com/abdullahsherdy/algorithms">Algorithms & DS</a></h4>
+      <h4 align="center">🧠 <a href="https://github.com/abdullahsherdy/algorithms">Algorithms &amp; DS</a></h4>
       <p align="center">Algorithm implementations in <b>Python</b> with clean explanations and performance analysis.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7aa2f7" />
+        <img src="https://img.shields.io/badge/Algorithms-1a1b26?style=flat-square&logo=thealgorithms&logoColor=bb9af7" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">➕ <a href="https://github.com/abdullahsherdy?tab=repositories">More Projects</a></h4>
       <p align="center">Explore the rest of my work — backend APIs, ML experiments, and CS-fundamentals projects.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/View_All-1a1b26?style=flat-square&logo=github&logoColor=7aa2f7" />
+      </p>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 🎯 Current Focus
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  FOCUS + TEACHING                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-- 🔁 Distributed Systems & Event-Driven Architecture
-- 🏗️ System Design at scale
-- 🤖 AI integration into backend systems
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎯 Current Focus</h3>
+      <ul>
+        <li>🔁 Distributed Systems &amp; Event-Driven Architecture</li>
+        <li>🏗️ System Design at scale</li>
+        <li>🤖 AI integration into backend systems</li>
+        <li>☁️ Cloud-native deployment &amp; DevOps</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👨‍🏫 Teaching &amp; Mentorship</h3>
+      <ul>
+        <li>📚 Teaching software engineering <b>fundamentals</b></li>
+        <li>🧑‍💻 Mentoring developers on strong foundations</li>
+        <li>✍️ Turning complex concepts into clear lessons</li>
+        <li>💡 OOP, data structures, algorithms &amp; databases</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
-### 📈 GitHub Stats
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  CONTACT                                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 📫 Let's Connect
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullahsherdy&theme=tokyonight&hide_border=true&background=1a1b26&cache_seconds=0" />
+  <a href="mailto:abdullah.sherdy.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-abdullah.sherdy.work@gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Gmail" /></a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullahsherdy"><img src="https://img.shields.io/badge/LinkedIn-abdullahsherdy-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100038535590675"><img src="https://img.shields.io/badge/Facebook-Abdullah_Sherdy-1a1b26?style=for-the-badge&logo=facebook&logoColor=7aa2f7" alt="Facebook" /></a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahsherdy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsherdy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="45%" />
-</p> -->
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  FOOTER                                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahsherdy&theme=tokyo-night&hide_border=true&bg_color=1a1b26&radius=8" width="95%" />
-</p>
-
----
-
-### 📫 Contact Me
-
-<p align="center">
-  💬 Let's connect or collaborate!
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Happy+Coding+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Fundamentals+over+Frameworks" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:abdullah.sherdy.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-abdullah.sherdy.work@gmail.com-1a1b26?style=flat-square&logo=gmail&logoColor=7aa2f7" /></a><br/>
-  <a href="https://www.linkedin.com/in/abdullah-sherdy"><img src="https://img.shields.io/badge/LinkedIn-abdullahsherdy-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7" /></a><br/>
-  <a href="https://www.facebook.com/profile.php?id=100038535590675"><img src="https://img.shields.io/badge/Facebook-Abdullah_Sherdy-1a1b26?style=flat-square&logo=facebook&logoColor=7aa2f7" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Happy+Coding+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Building+Something+Cool!+%F0%9F%A7%AA" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b26&height=120&section=footer" width="100%" alt="" />
 </p>
