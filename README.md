@@ -33,7 +33,7 @@ public class AbdullahSherdy : SoftwareEngineer
     public string[] Stack     => new[] { ".NET", "NestJS", "React", "Next.js" };
     public string[] Focus     => new[] { "System Design", "Distributed Systems", "Clean Architecture" };
     public string Philosophy  => "Master the fundamentals — frameworks are just tools.";
-    public int YearsFreelance => 2;
+    public int YearsOfExperience => 2;
 }
 ```
 
